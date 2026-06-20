@@ -36,11 +36,16 @@ The goal: to grow from *Rising* to *Shining*, and beyond.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, C#  
-- **Tools:** GitHub, VS Code, CLI  
-- **Focus:** Open-source contributions, learning projects, creative builds  
+| Layer        | Technology |
+|--------------|-----------|
+| Frontend     | HTML5, CSS3, Vanilla JavaScript |
+| Build Tool   | Vite |
+| Backend API  | Cloudflare Workers |
+| Server       | Nginx (Dockerized) |
+| Deployment   | Google Cloud Run / Vercel |
+| Analytics    | Vercel Speed Insights + Cloudflare Web Analytics |
 
 ---
 
