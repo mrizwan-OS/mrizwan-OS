@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6fb32f1-3f25-43f0-afd0-a1885b6891c0/deploy-status)](https://app.netlify.com/projects/teal-piroshki-9c3eb2/deploys)
+
 # 🌆 Git City: MRIZWAN-OS
 
 <img width="1200" height="675" alt="1000042008" src="https://github.com/user-attachments/assets/3728b57e-bc85-45cc-bf09-997fd2573634" />
